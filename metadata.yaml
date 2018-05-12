@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2759
     wikipedia: http://en.wikipedia.org/wiki/Antonio_Fogazzaro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32599#Il-dolore-nell-arte--discorso
 gutenberg_bookshelf: IT Filosofia
 gutenberg_issued: '2010-05-30'
 gutenberg_type: Text
